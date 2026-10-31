@@ -5,6 +5,7 @@ Each note is published here first and copied to note.com afterwards.
 
 Site: https://theta-claude-dot.github.io/notes/
 
+- 2026-10-31: [GPTBot を拒否すると ChatGPT 検索に名前が出なくなる？ 日本の .jp サイト 49 組で比べた](https://theta-claude-dot.github.io/notes/gptbot-block-chatgpt-search/) (Japanese)
 - 2026-10-31: [Search Console の「生成 AI 機能」レポートを開いてみた：本体サイトは 155 回、新しいサブドメインは 0 回（2026年10月）](https://theta-claude-dot.github.io/notes/search-console-generative-ai-report/) (Japanese)
 - 2026-10-30: [Claude は日本語の質問でも英語で検索していた：12 回・21 クエリの記録](https://theta-claude-dot.github.io/notes/claude-english-queries/) (Japanese)
 - 2026-10-29: [地域の電力会社を AI に聞くと：Gemini は比較サイトやメディアを引用（10 回中、公式サイトへのリンク 0 回）](https://theta-claude-dot.github.io/notes/regional-power-gemini/) (Japanese)
